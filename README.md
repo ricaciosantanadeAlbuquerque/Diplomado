@@ -6,4 +6,4 @@ hospedar o diploma.
 Se você estiver no Visual Studio Code, será necessário baixar algum plugin de PDF.
 
 ### Imagem
-![Diploma](Diplomado/image/image.png)
+![Diploma](image/image.png)
